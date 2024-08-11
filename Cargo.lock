@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Another_optimized"
+name = "Element_wise_Division_Using_AVX2_SIMD_with_F64_Conversion"
 version = "0.1.0"
 dependencies = [
  "tfhe",
